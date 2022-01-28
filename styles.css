@@ -19,6 +19,8 @@
 body {
   display: flex;
   justify-content: center;
+  align-items: center;
+  min-height: 100vh;
   font-family: "Libre Franklin", sans-serif;
   text-align: center;
   color: var(--clr-black-blue);
